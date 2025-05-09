@@ -1,0 +1,79 @@
+ Chinese chipmaker SMIC shares fall nearly 7% after earnings miss
+Shares ofSemiconductor Manufacturing International Corporation, China's largest contract chip maker, fell nearly 7% Friday after itsfirst-quarter earningsmissed estimates.
+After trading on Thursday, the company reported a first-quarter revenue of $2.24 billion, up about 28% from a year earlier. Meanwhile, profit attributable to shareholders surged 162% year on year to $188 million.
+However, both figures missed LSEG mean estimates of $2.34 billion in revenue and $225.1 million in net income, as well asthe company's own forecasts.
+During an earnings call Friday, an SMIC representative said the earnings missed original guidance due to"production fluctuations" which sent blended average selling prices falling. This impact is expected to extend into the second quarter, they added.
+For the current quarter, the chipmaker forecasted revenue to fall 4% to 6% sequentially. Gross margin is also expected to fall within the range of 18% to 20%, compared to 22.5% in the first quarter.
+Still, the first quarter saw SMIC's wafer shipments increase by 15% from the previous quarter and by about 28% year-on-year.
+In the earnings call, SMIC attributed that growth to customer shipment pull in, brought by changes in geopolitics and increased demand driven by government policies such as domestic trade-in programs and consumption subsidies.
+In another positive sign for the company, its first-quarter capacity utilization— the percentage of total available manufacturing capacity that is being used at any given time— reached 89.6%, up 4.1% quarter on quarter.
+"SMIC's nearly 90% utilization rate reflects strong domestic demand for semiconductors, likely driven by smartphone and consumer electronics production," said Ray Wang, a Washington-based semiconductor and technology analyst, adding that the demand was also reflected in the company's strong quarterly revenue growth.
+Meanwhile, the company said in the earnings call that it is "currently in an important period of capacity construction, roll out, and continuously increasing market share."
+However, SMIC's first-quarter research and development spending decreased to $148.9 million, down from $217 million in the previous quarter.
+Amid increased demand, it will be crucial for SMIC to continue ramping up their capacity, Simon Chen, principal analyst of semiconductor manufacturing at Informa Tech told CNBC.
+SMIC generates most of its revenue from older-generation semiconductors, often referred to as "mature-node" or "legacy" chips, which are commonly found in consumer electronics and industrial equipment.
+The state-backed chipmaker is critical to Beijing's ambitions to build a self-sufficient semiconductor supply chain, with the governmentpumping billions into such efforts.Over 84% of its first-quarter revenue was derived from customers in China.
+"The localization transformation of the supply chain has been strengthened, and more manufacturing demand has shifted back domestically," a representative said Friday.
+However, chip analysts saythe chipmaker's abilityto increase capacity in advance chips — used in applications that demand higher levels of computing performance and efficiency at higher yields — is limited.
+This is due to U.S.-led export controls, which prevent it from accessing some of the world's most advanced chip-making equipment from the Netherlands-based ASML.
+Nevertheless, the chipmaker appears to be making some breakthroughs. Advanced chips manufactured by SMIC have reportedly appeared in various Huawei products, notably in theMate 60 Pro smartphoneand someAI processors.
+SMIC's Hong Kong-listed shares have gained over 32.23% year-to-date.
+
+------------------------------------------------------------
+
+ Celsius CEO Mashinsky gets 12 years in multi-billion-dollar crypto fraud case
+Alexander Mashinsky,the former CEO ofCelsius Network, was sentenced to 12 years in prison on Thursday after pleading guilty to two counts of fraud, a dramatic fall for the leader of a company once hailed as the "bank" of the crypto industry.
+Standing before U.S. District Judge John G. Koeltl in Manhattan's Southern District, Mashinsky faced the consequences of what prosecutors described as a sweeping scheme to defraud investors.
+In December he pleaded guilty to commodities fraud and a scheme to manipulate the Celsius token.
+His sentencing took place in courtroom 14A at 500 Pearl Street — a venue that has seen several crypto executives-turned-felons.
+Mashinsky's legal troublesbegan in 2023when he was arrested on charges of securities, commodities, and wire fraud, just as Celsius reached a$4.7 billionsettlement with the Federal Trade Commission — one of the largest in the FTC's history.
+The settlement, which remains contingent on Celsius returning what remains of customer assets inbankruptcy proceedings, underscored the magnitude of the fraud.
+Prosecutors accused Mashinsky of misleading investors about the safety and profitability of Celsius's yield-generating platform while secretly selling off tens of millions of dollars in personal holdings.
+Though he initially denied wrongdoing, his guilty plea and Thursday's sentencing mark the final chapter in a years-long case that also drew charges from the Securities and Exchange Commission and the Commodity Futures Trading Commission, which accused Celsius and Mashinsky of orchestrating a multi-billion dollar fraud scheme.
+Mashinsky's downfall mirrors the fate of other once-dominant crypto executives likeFTXfounderSam Bankman-Fried, Binance's Changpeng Zhao and Do Kwon of Terraform Labs.
+Bankman-Fried wassentencedto 25 years inprisonin March 2024 for the massive fraud and conspiracy that doomed hiscryptocurrencyexchange and a related hedge fund, Alameda Research.
+Once celebrated as a crypto wunderkind, Bankman-Fried was exposed for misappropriating billions of dollars in customer funds to support his own trading firm, Alameda Research, and for living an extravagant lifestyle in Hong Kong and later the Bahamas.
+Caroline Ellison, who led Alameda Research and was romantically involved with Bankman-Fried,received a significantly lighter sentence of two years. Her cooperation with prosecutors proved crucial in unraveling the complex web of fraudulent activities at FTX, allowing authorities to build a strong case against Bankman-Fried and other executives.
+Bankman-Fried is in the process of appealing his conviction and sentence.
+Ryan Salame, a former top lieutenant of FTX founder Sam Bankman-Fried, wassentenced to 90 months, followed by three years of supervised release.
+FTX engineering chief Nishad Singhgot no jail timeand three years of supervised release for his role in the crypto fraud; and Gary Wang, the co-founder and chief technology officer of FTX,also avoided prison time.
+In May2024, the bankruptcy estate of FTX announced that almost all customers would get their money back — and more.
+A judge on Wednesday dismissed most of the claims againstcelebritiesand athletes who were involved in promoting FTX in commercials and on other platforms.
+Stars likeTom Brady, Gisele Bündchen,Kevin O'LearyandStephen Currywere among those facing a suit brought by a group of FTX investors.
+In November 2023, Zhao, commonly known as "CZ," struck a deal with the U.S. government to resolve a multiyear investigation intoBinance, the world's largest cryptocurrency exchange.
+Zhao stepped down as CEO in 2023 but retained a significant stake in Binance.
+In April 2024, Binance's billionaire founder wassentenced to four months in prisonafter pleading guilty to charges of enabling money laundering at his crypto exchange. He served his sentence at a low-security federal prison in Lompoc, California.
+Under new leadership, Binance has undergone a strategic pivot, aligning closely with the Trump administration's pro-crypto stance. CEO Richard Teng described President Donald Trump's second term as a"fantastic reset"for the cryptocurrency industry, noting a dramatically improved regulatory environment for Binance in the U.S.
+Months before Bankman-Fried and the FTX fraud was exposed, and years before Binance and its founder would admit fault and settle with the U.S. for several billion dollars, Kwon was widely regarded as crypto's top villain for nearly dismantling the entire sector with his failed U.S. dollar-pegged stablecoin.
+It was May 2022, and Kwon was riding high. His company, Terraform Labs, was behind one of the most popular U.S.-pegged stablecoins on the planet, the venture funding was rolling in, his coins (dubbed terra and luna) were collectively worth tens of billions of dollars, and like Bankman-Fried, Kwon hadlanded a spoton the prestigious Forbes 30 under 30 list.
+And then it all came crashing down.
+Whereas most stablecoins are backed up by a mix of cash and other assets to match the value of tokens in circulation, Kwon's invention was instead backed by a complex set of code. When the algorithm failed in May 2022, it cost investors $40 billion in market value overnight, led to devastating losses to multiple investors, and contributed to the collapse of hedge fund Three Arrows Capital in June 2022, followed by crypto lenders Voyager Digital, then BlockFi, then Genesis — and, in a roundabout way, FTX too.
+The stablecoin's implosion also rocked confidence in the sector and accelerated the slide in cryptocurrencies already underway as part of a broader pullback from risk.
+Last June, a judge signed off on Do Kwon and his bankruptTerraform Labs settlingwith the U.S. Securities and Exchange Commission for $4.5 billion.
+Kwon was extradited to the U.S. from Montenegro to facefraud chargesin January 2025.
+The fall of crypto hedge fund Three Arrows Capital, and lenders Voyager Digital and Celsius, can all be traced to the collapse of Kwon's stablecoin project.
+When3AC's lendersasked for some of their cash back in a flood of margin calls, the money wasn't there. Many of the firm's counterparties were, in turn, unable to meet demands from their investors, including retail holders who had been promised annual returns of 20%.
+The three companies all went bankrupt and are currently at various stages of settling their debts, with Celsius having just emerged from bankruptcy in January.
+3AC co-founder Kyle Daviessaid he's not sorryfor the collapse of his fund, and has so far managed to avoid jail timeby bouncing around the world, unlike his co-founder, Su Zhu, who served time in a Singaporean prison.
+This self-driving car technology stock could pop by more than 400%, say three analysts
+Looking for alternatives to Nvidia? Futurum CEO names 3 he's bullish on for 2024
+Bernstein tech analyst's best idea for 2024 is to short Tesla
+Morgan Stanley picks 'alpha' opportunities in China tech - giving one 52% upside
+WATCH:FTX founder Sam Bankman-Fried appeals fraud conviction
+
+------------------------------------------------------------
+
+ Lyft shares rise as company ups buyback to $750 million
+In this article
+Lyftshares jumped 7% after the company boosted its share buyback plan to $750 million in itsfirst quarter earnings report.
+Shares were as high as 10% post-earnings.
+Here's how the ridesharing company did:
+Revenues grew 14% from a year ago to $1.45 billion. The company reported net income of $2.57 million, or 1 cent per share. That's up from a net loss of $31.54 million, or 8 cents per share, a year ago.
+Rides jumped 16% during the period to 218.4 million and topped a FactSet estimate of 215.1 million. Active riders grew 11% to 24.2 million, while gross bookings surged 13% to $4.16 billion and came in slightly ahead of a $4.15 billion estimate from StreetAccount.
+CEO David Risher said the quarter was the 16th straight period of double-digit year over year gross booking growth for the company in an earnings release. The ridesharing stock has shed more than 80% in value since itstrading debut in March 2019.
+"With our expansion into new demographics via Lyft Silver and into Europe with our planned FREENOW acquisition, we're putting all the pieces in place for sustained, market-leading performance," he said.
+For the second quarter, Lyft said it anticipates rides growth in the mid-teens from a year ago. Gross bookings are expected to range between $4.41 billion to $4.57 billion. Analysts polled by FactSet had forecast gross booking of $4.48 billion.
+Lyft reported $280.7 million in free cash flows for the first quarter, which topped a $136.3 million estimate from StreetAccount.
+Last month, Lyft announced an expansion into Europe with the nearly$200 million acquisitionof Germany-based taxi app FreeNow.
+
+------------------------------------------------------------
